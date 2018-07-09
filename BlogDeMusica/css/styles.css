@@ -1,0 +1,31 @@
+body{
+  background-color: #303030;
+  color: white;
+}
+header{
+  background-color: #202020;
+}
+div[class$="nvar"]{
+  padding: 0;
+}
+a[class$="navar"]{
+  border-radius: 7px;
+  background-color:#202020;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+div[class="row input-group"]{
+  margin-bottom: 2em;
+}
+a[href="#"]{
+  background-color: #303030;
+}
+a[class^="list-group-item"]{
+  background-color: #202020;
+  color: white;
+}
+ul{
+  margin-top: 10px;
+}
