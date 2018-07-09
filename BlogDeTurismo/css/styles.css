@@ -1,0 +1,17 @@
+.container{
+  color: slategrey;
+}
+div[class$="titulo"]{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+body{
+  background: url(../sources/night.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+  background-color: slategrey;
+}
+nav{
+  box-shadow: none;
+}
