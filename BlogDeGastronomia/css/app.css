@@ -1,0 +1,22 @@
+div[class$="container"]{
+  background-color: rgba(32, 178, 170, 0.5);
+}
+div[class$="navg"]{
+  background-color: gainsboro;
+  padding-top: 2em;
+}
+div[class$="networks"]{
+  background-color: lightsalmon;
+  padding-top: 25px;
+  margin-bottom: 2em;
+}
+body{
+  background: url(../sources/Claire-garner.jpg);
+  background-size: cover;
+}
+a{
+  color: darkslategray;
+}
+h2{
+  margin-top: 5px;
+}
